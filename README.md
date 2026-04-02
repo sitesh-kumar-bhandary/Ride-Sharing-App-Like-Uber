@@ -114,22 +114,11 @@ mvn spring-boot:run
 
 ---
 
-## 📄 Resume Highlights
+## 👤 Author
 
-- Built a ride-sharing backend handling **high concurrency scenarios**  
-- Implemented **Redis caching**, reducing latency significantly  
-- Integrated **WebSockets for real-time tracking**  
-- Used **Resilience4j** for fault tolerance  
-- Designed system with **scalable and production-ready architecture**  
+**Sitesh Kumar Bhandary**
+Backend Developer | Java | Spring Boot
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
+* GitHub: https://github.com/sitesh-kumar-bhandary
+* Linkedin : https://www.linkedin.com/in/sitesh-kumar-bhandary/
+* LeetCode : https://leetcode.com/u/_sitesh_kumar/
